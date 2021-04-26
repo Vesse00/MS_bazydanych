@@ -20,7 +20,8 @@ jakim poleceniem  wlaczyc/wylaczyc transakcje w SQL
 SET TRANSACTION, ON/OFF TRANSACTION, BANKING
 
 co to SUM
-	Suma lciczb, nic, sum, srednia liczb, iloraz
+	Suma lciczb, srednia liczb, iloraz
 
 jaka ma maksymalna dlugosc tiny INT
 	255, 256, 50 ,2500
+
