@@ -18,3 +18,6 @@ jAKim poleceniem Stworzyc baze danych
 
 jakim poleceniem  wlaczyc/wylaczyc transakcje w SQL
 SET TRANSACTION, ON/OFF TRANSACTION, BANKING
+
+cO to SUM
+	Suma lciczb, nic, jedzneie, srednia liczb, iloraz
