@@ -16,4 +16,5 @@ Gdzie uruchamiamy MySQL
 jAKim poleceniem Stworzyc baze danych
 	CREATE TABLE, CREATE DATABASE, CREATE DB
 
-jak wlaczyc transakcje w SQL
+jakim poleceniem  wlaczyc/wylaczyc transakcje w SQL
+SET TRANSACTION, ON/OFF TRANSACTION, BANKING
