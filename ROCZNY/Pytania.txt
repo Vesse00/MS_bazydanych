@@ -1,0 +1,17 @@
+Jakie polecenie pozwala modyfikowac tabele
+	ALEET TABLE, ALETR TABLE, EDIT TABLE
+
+Ktore z podanych argumentow sortuje od A-Z 
+	DESC ASC ATZ SPZ
+
+Ktory typ danych przechowuje tylko liczby calkowite
+	INT STRING DOUBLE FLOAT DATA
+
+Jakie polecenie nadaje uprawnienia urzytkownikowi
+	GRANT, ADD, GRAND, INDEX
+
+Gdzie uruchamiamy MySQL 
+	XAMP XAMPP MySQL DOCKRR
+
+jAKim poleceniem Stworzyc baze danych
+	CREATE TABLE, CREATE DATABASE, CREATE DB
