@@ -15,3 +15,5 @@ Gdzie uruchamiamy MySQL
 
 jAKim poleceniem Stworzyc baze danych
 	CREATE TABLE, CREATE DATABASE, CREATE DB
+
+Co to jest ABS
