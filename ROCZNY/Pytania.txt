@@ -25,3 +25,5 @@ co to SUM
 jaka ma maksymalna dlugosc tiny INT
 	255, 256, 50 ,2500
 
+Jak nadawac nazwy dla tabeli
+	AS, LIKE, FOR, NAME
