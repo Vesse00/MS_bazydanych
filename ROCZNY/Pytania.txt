@@ -11,7 +11,7 @@ Jakie polecenie nadaje uprawnienia urzytkownikowi
 	GRANT, ADD, GRAND, INDEX
 
 Gdzie uruchamiamy MySQL 
-	XAMP XAMPP MySQL DOCKRR
+	XAMP XAMPP MySQL DOCKRR CMD
 
 jAKim poleceniem Stworzyc baze danych
 	CREATE TABLE, CREATE DATABASE, CREATE DB
