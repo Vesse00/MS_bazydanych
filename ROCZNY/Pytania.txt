@@ -27,3 +27,10 @@ jaka ma maksymalna dlugosc tiny INT
 
 Jak nadawac nazwy dla tabeli
 	AS, LIKE, FOR, NAME
+
+co to mysql
+	tak, system do zarzadzania relacyjnych baz danych, mysql
+
+modyfikowanie tabeli
+dodawanie użytkownika
+dodawani danych
